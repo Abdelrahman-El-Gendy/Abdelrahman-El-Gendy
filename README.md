@@ -1,10 +1,10 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io/)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdelrahman Elgendy
-===========================================================================================================================================
 
-Junior Android Developer - ML Enthusiast
-----------------------------------------
+<h1 align="center">Hi 👋, I'm Abdelrahman Elgendy</h1>
+<h3 align="center">Junior Android Developer - AI & ML Student</h3>
+
+<br>
 
 I am an undergrad of computers and information technology in Tanta University. My main specialization is AI & ML - Android Development. 
 I am interested in the field of AI & ML ,Android Development and Cloud Computing and I have learned and obtained more than one certificate in the field of cloud , 5G , networking. 
