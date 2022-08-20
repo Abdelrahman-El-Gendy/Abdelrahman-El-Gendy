@@ -13,7 +13,7 @@ I am interested in the field of AI & ML ,Android Development and Cloud Computing
 
 - I also learned programming languages such as Competitive C++ ,Java , Kotlin , Python basics , Dart basics , HTML and CSS3.
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)">
+<img align="right" alt="Coding"  src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)">
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [abdelrahmanelgendy961@gmail.com](mailto:abdelrahmanelgendy961@gmail.com)
