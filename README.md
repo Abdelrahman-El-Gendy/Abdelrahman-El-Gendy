@@ -4,7 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Android Developer - ML Enthusiast
 ----------------------------------------
 
-I am an undergrad of computers and information technology in Tanta University. My main specialization is AI & ML - Android Development. I am interested in the field of AI & ML ,Android Development and Cloud Computing and I have learned and obtained more than one certificate in the field of cloud , 5G , networking. - As a ML Developer : • Python, Pandas, ScikitLearn , NumPy , Data Visualization, Matplotlib , Deep Learning. My Achievements : •I have got... (HCIA-5G ,HCIA-Storage ,HCIA-Bigdata ,HCIA-Routing& Switching , HCIA-Datacom , HCIA-Cloud Computing , HCIA-AI , HCIA-IoT) with Huawei. I also learned programming languages such as Competitive C++ ,Java , Kotlin , Python basics , Dart basics , HTML and CSS3.
+I am an undergrad of computers and information technology in Tanta University. My main specialization is AI & ML - Android Development. 
+I am interested in the field of AI & ML ,Android Development and Cloud Computing and I have learned and obtained more than one certificate in the field of cloud , 5G , networking. 
+
+- As a ML Developer : • Python, Pandas, ScikitLearn , NumPy , Data Visualization, Matplotlib , Deep Learning.
+
+- My Achievements : •I have got... (HCIA-5G ,HCIA-Storage ,HCIA-Bigdata ,HCIA-Routing& Switching , HCIA-Datacom , HCIA-Cloud Computing , HCIA-AI , HCIA-IoT) with Huawei.
+
+- I also learned programming languages such as Competitive C++ ,Java , Kotlin , Python basics , Dart basics , HTML and CSS3.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [abdelrahmanelgendy961@gmail.com](mailto:abdelrahmanelgendy961@gmail.com)
