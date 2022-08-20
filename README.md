@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Elgendy</h1>
 <h3 align="center">Junior Android Developer - ML Enthusiast</h3>
-<img align="right" alt="Coding" width ="400px"src="https://gifer.com/en/6tXM">
+<img align="right" alt="Coding" width ="400px"src="https://gifer.com/en/6tXM](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman-el-gendy&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-el-gendy" /> </p>
 
