@@ -1,16 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io/)
 
-
-[![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)]
-
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Abdelrahman Elgendy</h1>
 <h3 align="center">Junior Android Developer - AI & ML Student</h3>
 
