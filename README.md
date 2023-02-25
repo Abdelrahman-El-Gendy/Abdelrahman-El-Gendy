@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io/)
 
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+[![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)]
 
 <a href=#><img src="contributions.svg"></a>
 
