@@ -1,12 +1,13 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io/)
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Elgendy</h1>
-<h3 align="center">Junior Android Developer - Gen-AI , AI & ML Student</h3>
+<h3 align="center">Junior Android Developer - GenAI Learner</h3>
 
 <br>
 
-I am an undergrad of computers and information technology in Tanta University. My main specialization is AI & ML - Android Development. 
-I am interested in the field of AI & ML ,Android Development and Cloud Computing and I have learned and obtained more than one certificate in the field of cloud , 5G , networking. 
+- I am a Fresh Graduate with a Bachalor's in Computer Science. <br> 
+- I am interested in GenAI , Android Development , learning trendy Stacks.<>br 
+- I have learned and obtained more than one certificate in the field of cloud , 5G , networking. 
 
 <img align="right" alt="Coding" width="400px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
