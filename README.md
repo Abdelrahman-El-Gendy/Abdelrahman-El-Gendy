@@ -1,21 +1,74 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io/)
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Elgendy</h1>
-<h3 align="center">Junior Android Developer - GenAI Learner</h3>
+<h3 align="center">Mid-Level Android Developer - Gen-AI Enthiasiast</h3>
 
 <br>
 
-- I am a Fresh Graduate with a Bachalor's in Computer Science. <br> 
-- I am interested in GenAI , Android Development , learning trendy Stacks.<>br 
-- I have learned and obtained more than one certificate in the field of cloud , 5G , networking. 
+## 🧑‍💻 About Me
+
+I'm a Mid-Level Android Developer with 2+ years of hands-on experience building scalable, high-performance mobile applications using Kotlin and Java. I specialize in crafting intuitive user interfaces, integrating modern Android architectures (MVVM, Clean Architecture), and leveraging the latest tools like Jetpack Compose, Coroutines, Hilt, and Room.
+
+I’m passionate about writing clean, maintainable code and continuously improving app performance and UX. I’ve worked across various domains including e-commerce, fintech, and social apps, collaborating closely with cross-functional teams in agile environments.
+
+### 👨‍💻 What I Do
+
+- Develop scalable Android apps with **MVVM** and **Clean Architecture**
+- Build intuitive UIs using **Jetpack Compose** and traditional **XML layouts**
+- Implement smooth asynchronous flows with **Kotlin Coroutines** and **Flow**
+- Integrate RESTful APIs using **Retrofit** and manage local storage with **Room**
+- Apply **Dependency Injection** using **Hilt** for clean, testable code
+- Ensure app quality with **Unit & UI testing** (JUnit, Espresso)
+
+### 🛠 Tech Stack
+
+- **Languages**: Kotlin, Java  
+- **UI**: Jetpack Compose, XML, Material Design  
+- **Architecture**: MVVM, Clean Architecture  
+- **Libraries**: Retrofit, OkHttp, Room, Hilt, Coil, Navigation Component  
+- **Tools**: Android Studio, Git, Firebase, Crashlytics, GitHub Actions  
+- **Testing**: JUnit.
+
+### 🚀 Current Focus
+
+- Advancing UI development with **Jetpack Compose**
+- Improving CI/CD pipelines for Android with **GitHub Actions**
+- Exploring **Kotlin Multiplatform Mobile (KMM)** for cross-platform development
+
+<br>
 
 <img align="right" alt="Coding" width="400px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
-- As a ML Developer : • Python, Pandas, ScikitLearn , NumPy , Data Visualization, Matplotlib , Deep Learning.
+### 🤖 Machine Learning
 
-- My Achievements : •I have got... (HCIA-5G ,HCIA-Storage ,HCIA-Bigdata ,HCIA-Routing& Switching , HCIA-Datacom , HCIA-Cloud Computing , HCIA-AI , HCIA-IoT) with Huawei.
+- Proficient in **Python**, **Pandas**, **NumPy**, **Scikit-Learn**, and **Matplotlib**
+- Knowledge of **Deep Learning** fundamentals
+- Experience with data cleaning, preprocessing, model building, and visualization
 
-- I also learned programming languages such as Competitive C++ ,Java , Kotlin , Python basics , Dart basics , HTML and CSS3.
+---
+
+### 🏆 Certifications
+
+Proud to hold multiple industry-recognized certifications from **Huawei**:
+
+- **HCIA-5G**
+- **HCIA-Storage**
+- **HCIA-Big Data**
+- **HCIA-Routing & Switching**
+- **HCIA-Datacom**
+- **HCIA-Cloud Computing**
+- **HCIA-AI**
+- **HCIA-IoT**
+
+These demonstrate a wide-ranging understanding of both traditional and emerging technologies.
+
+---
+
+### 💻 Additional Programming Skills
+
+- Competitive programming in **C++**
+- Familiar with **Java**, **Kotlin**, **Python**, and basics of **Dart**
+- Basic web development: **HTML5** and **CSS3**
 
 
 
